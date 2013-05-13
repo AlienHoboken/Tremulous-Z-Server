@@ -1,0 +1,15 @@
+build/*
+src/tools/lcc/build-linux-x86_64/etc/lcc.o
+src/tools/lcc/build-linux-x86_64/lburg/gram.o
+src/tools/lcc/build-linux-x86_64/lburg/lburg
+src/tools/lcc/build-linux-x86_64/q3lcc
+src/tools/lcc/build-linux-x86_64/q3rcc
+src/tools/lcc/build-linux-x86_64/rcc/dagcheck.c
+src/tools/lcc/build-linux-x86_64/rcc/dagcheck.d
+src/tools/lcc/build-linux-x86_64/rcc/dagcheck.o
+src/tools/lcc/lburg/gram.c
+src/tools/q3asm
+src/tools/q3cpp
+src/tools/q3lcc
+src/tools/q3rcc
+
